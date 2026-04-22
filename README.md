@@ -14,6 +14,5 @@ The model in this project was fine-tuned using a dataset compiled from the follo
 
 ## Codebase
 
-- `Continued_Pretraining_(CPT)_ipynb_.ipynb`: Notebook for continued pretraining of models.
 - `books_combined_dataset.csv`: The exported dataset created from compiling the markdown texts. Ready for use with HuggingFace datasets library.
 - `gemma4-E2B-architect.ipynb`: The main notebook containing the actual fine-tuning process.
